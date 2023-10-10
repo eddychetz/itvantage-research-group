@@ -70,6 +70,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+  - Visitors
 ---
 
 Eddwin Cheteni is a lecturer of data science and machine learning at Belgium Campus ITvantage Research Lab. His research interests include machine learning scalability, generalization and explainability, time series forecasting, and big data analytics (marketing and sales).

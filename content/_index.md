@@ -1,21 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-10-10
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        ITvantage
+        Research Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **ITvantage Research Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2023.
   
   - block: collection
     content:

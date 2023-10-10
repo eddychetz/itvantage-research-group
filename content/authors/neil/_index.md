@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer of Data Science
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-# - Visitors
+  - Visitors
 ---
 
 Dr Neil Croft is a professor of artificial intelligence at ITvantage Research Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
