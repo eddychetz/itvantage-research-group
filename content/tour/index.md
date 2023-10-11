@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 'Share your knowledge with the group and explore exciting new research topics together!'
         align: left
         background:
           image:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: World-Class ML & AI Lab
         content: 'Just opened last month!'
         align: right
         background:
