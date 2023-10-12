@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: flatly
+  theme_night: 
   font: native
   font_size: L
 
